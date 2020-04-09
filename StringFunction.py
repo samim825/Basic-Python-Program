@@ -1,0 +1,15 @@
+name= "Abdur Rahim";
+lengthOfString = len(name)
+upperCaseString = name.upper()
+lowerCaseString = name.lower()
+lower=lowerCaseString.islower()
+isLower = name[7].islower()
+fahim = name.replace('R','F')
+
+print(name)
+print(lengthOfString)
+print(upperCaseString)
+print(lowerCaseString)
+print(lower)
+print(isLower)
+print(fahim)
